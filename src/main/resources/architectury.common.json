@@ -1,5 +1,4 @@
 {
-    "accessWidener": "example.accesswidener",
-    "injected_interfaces": {
-    }
+  "modid": "stackupgrades",
+  "name": "Stack Upgrades"
 }
